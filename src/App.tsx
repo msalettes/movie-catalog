@@ -1,25 +1,30 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { Suspense } from 'react';
+import { ErrorBoundary } from 'react-error-boundary';
+import { Route, Routes } from 'react-router';
+import AppLayout from './components/AppLayout';
+import { ErrorFallback } from './components/Error/Error';
+import Loading from './components/Loading';
+import Providers from './providers';
+const Movies = React.lazy(() => import('./pages/Movies'));
+const Series = React.lazy(() => import('./pages/Series'));
+const NotFound = React.lazy(() => import('./pages/404'));
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Providers>
+      <AppLayout>
+        <ErrorBoundary FallbackComponent={ErrorFallback}>
+          <Suspense fallback={<Loading />}>
+            <Routes>
+              <Route path="/" element={<Movies />} />
+              <Route path="/series" element={<Series />} />
+              <Route path="/404" element={<NotFound />} />
+              {/* PLOP_INJECT_ROUTE */}
+            </Routes>
+          </Suspense>
+        </ErrorBoundary>
+      </AppLayout>
+    </Providers>
   );
 }
 
