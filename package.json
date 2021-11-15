@@ -95,7 +95,9 @@
     "eslint-plugin-prettier": "4.0.0",
     "eslint-plugin-sonarjs": "0.10.0",
     "husky": "7.0.4",
+    "jsdom-testing-mocks": "1.1.1",
     "lint-staged": "11.2.6",
+    "msw": "0.35.0",
     "prettier": "2.4.1"
   }
 }

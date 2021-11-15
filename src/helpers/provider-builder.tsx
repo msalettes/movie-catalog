@@ -1,6 +1,7 @@
 /* eslint-disable react/display-name */
 import React, { FunctionComponent } from 'react';
 import { IntlProvider } from 'react-intl';
+import { QueryClient, QueryClientProvider } from 'react-query';
 import { MemoryRouter } from 'react-router-dom';
 import translationMessages from '../intl';
 interface MockedProviderBuilder {
@@ -10,6 +11,7 @@ interface MockedProviderBuilder {
     value: ContextState,
   ) => MockedProviderBuilder;
   withRouterProvider: (initialEntries: string[]) => MockedProviderBuilder;
+  withQueryProvider: () => MockedProviderBuilder;
   build: () => FunctionComponent<unknown>;
 }
 
@@ -46,6 +48,14 @@ export function makeMockedProviders(): MockedProviderBuilder {
     },
     withRouterProvider: (initialEntries: string[]) => {
       mockedProviders.push(({ children }) => <MemoryRouter initialEntries={initialEntries}>{children}</MemoryRouter>);
+      return builder;
+    },
+    withQueryProvider: () => {
+      const queryClient = new QueryClient();
+
+      mockedProviders.push(({ children }) => (
+        <QueryClientProvider client={queryClient}>{children}</QueryClientProvider>
+      ));
       return builder;
     },
 

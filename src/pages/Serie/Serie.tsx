@@ -23,7 +23,7 @@ export default function Serie(): JSX.Element {
         <title>{data?.name}</title>
       </Helmet>
       <React.Suspense fallback={<Loading />}>
-        <div className="bg-secondary bg-gradient text-white">
+        <div className="bg-secondary bg-gradient text-white" data-testid="serie-details">
           <div className="container d-flex flex-row py-4">
             <div>
               <Image src={`https://image.tmdb.org/t/p/w300${data?.poster_path}`} alt="" rounded />
@@ -46,9 +46,7 @@ export default function Serie(): JSX.Element {
               </h2>
               {data?.overview}
               <h4 className="mt-3">Rating</h4>
-              <div>
-                <span className="">{data?.vote_average}</span>/<span>10</span>
-              </div>
+              <div>{data?.vote_average}/10</div>
             </div>
           </div>
         </div>

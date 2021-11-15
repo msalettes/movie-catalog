@@ -1,0 +1,540 @@
+{
+    "backdrop_path": "/qw3J9cNeLioOLoR68WX7z79aCdK.jpg",
+    "created_by": [
+        {
+            "id": 1294471,
+            "credit_id": "61235265886348007e36f84c",
+            "name": "Hwang Dong-hyuk",
+            "gender": 2,
+            "profile_path": "/xyr3b04ayyJtA5ZN3L0Af10WKIR.jpg"
+        }
+    ],
+    "episode_run_time": [
+        54
+    ],
+    "first_air_date": "2021-09-17",
+    "genres": [
+        {
+            "id": 10759,
+            "name": "Action & Adventure"
+        },
+        {
+            "id": 9648,
+            "name": "Mystery"
+        },
+        {
+            "id": 18,
+            "name": "Drama"
+        }
+    ],
+    "homepage": "https://www.netflix.com/title/81040344",
+    "id": 93405,
+    "in_production": false,
+    "languages": [
+        "ko"
+    ],
+    "last_air_date": "2021-09-17",
+    "last_episode_to_air": {
+        "air_date": "2021-09-17",
+        "episode_number": 9,
+        "id": 3222798,
+        "name": "One Lucky Day",
+        "overview": "The final round presents another cruel test — but this time, how it ends depends on just one player. The game's creator steps out of the shadows.",
+        "production_code": "",
+        "season_number": 1,
+        "still_path": "/sKeQbHeEUQLyoSdopa0QXm604cz.jpg",
+        "vote_average": 7.56,
+        "vote_count": 25
+    },
+    "name": "Squid Game",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "Netflix",
+            "id": 213,
+            "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+            "origin_country": ""
+        }
+    ],
+    "number_of_episodes": 9,
+    "number_of_seasons": 1,
+    "origin_country": [
+        "KR"
+    ],
+    "original_language": "ko",
+    "original_name": "오징어 게임",
+    "overview": "Hundreds of cash-strapped players accept a strange invitation to compete in children's games—with high stakes. But, a tempting prize awaits the victor.",
+    "popularity": 2256.062,
+    "poster_path": "/dDlEmu3EZ0Pgg93K2SVNLCjCSvE.jpg",
+    "production_companies": [
+        {
+            "id": 112647,
+            "logo_path": null,
+            "name": "Siren Pictures",
+            "origin_country": "KR"
+        }
+    ],
+    "production_countries": [
+        {
+            "iso_3166_1": "KR",
+            "name": "South Korea"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "2021-09-17",
+            "episode_count": 9,
+            "id": 131977,
+            "name": "Season 1",
+            "overview": "Hundreds of cash-strapped players accept a strange invitation to compete in children's games. Inside, a tempting prize awaits — with deadly high stakes.",
+            "poster_path": "/ertcijGyD6DS32UyeXZxSseqOzo.jpg",
+            "season_number": 1
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Korean",
+            "iso_639_1": "ko",
+            "name": "한국어/조선말"
+        }
+    ],
+    "status": "Ended",
+    "tagline": "45.6 billion won is child's play.",
+    "type": "Scripted",
+    "vote_average": 7.8,
+    "vote_count": 8870,
+    "similar": {
+        "page": 1,
+        "results": [
+            {
+                "adult": false,
+                "backdrop_path": "/xPT0XWQY1JUmZps58c7bq3YlavH.jpg",
+                "genre_ids": [
+                    10764
+                ],
+                "id": 8308,
+                "name": "Expeditie Robinson",
+                "origin_country": [
+                    "NL"
+                ],
+                "original_language": "nl",
+                "original_name": "Expeditie Robinson",
+                "overview": "",
+                "popularity": 21.594,
+                "poster_path": "/AaDIUjd35r4bBeqb1hY025tgkn5.jpg",
+                "first_air_date": "2000-10-01",
+                "vote_average": 6.0,
+                "vote_count": 1
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/6GIf7uiQ4Y5xPzIRkTct2NIyBqK.jpg",
+                "genre_ids": [
+                    10759,
+                    18,
+                    9648
+                ],
+                "id": 365,
+                "name": "Jericho",
+                "origin_country": [
+                    "US"
+                ],
+                "original_language": "en",
+                "original_name": "Jericho",
+                "overview": "Jericho is an American action/drama series that centers on the residents of the fictional town of Jericho, Kansas, in the aftermath of nuclear attacks on 23 major cities in the contiguous United States.",
+                "popularity": 23.993,
+                "poster_path": "/a57H9UsS388Av2LSLKO9inNmY7j.jpg",
+                "first_air_date": "2006-09-20",
+                "vote_average": 7.454,
+                "vote_count": 306
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/tK8eRUWVY8AVdDUPUxSzrmlLb0R.jpg",
+                "genre_ids": [
+                    10765,
+                    10759,
+                    18
+                ],
+                "id": 5148,
+                "name": "Stargate Universe",
+                "origin_country": [
+                    "US"
+                ],
+                "original_language": "en",
+                "original_name": "Stargate Universe",
+                "overview": "The adventures of a present-day, multinational exploration team traveling on the Ancient spaceship Destiny many billions of light years distant from the Milky Way Galaxy. They evacuated there and are now trying to figure out a way to return to Earth, while simultaneously trying to explore and to survive in their unknown area of the universe.",
+                "popularity": 25.0,
+                "poster_path": "/n23WMoa9y5TYPuKSQjPArpbHr9x.jpg",
+                "first_air_date": "2009-10-02",
+                "vote_average": 7.342,
+                "vote_count": 471
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/rfhwoh1giLKh6bAJoEtdnAFPFv6.jpg",
+                "genre_ids": [
+                    16,
+                    10759,
+                    10765,
+                    18
+                ],
+                "id": 65369,
+                "name": "Grimgar of Fantasy and Ash",
+                "origin_country": [
+                    "JP"
+                ],
+                "original_language": "ja",
+                "original_name": "灰と幻想のグリムガル",
+                "overview": "Fear, survival, instinct. Thrown into a foreign land with nothing but hazy memories and the knowledge of their name, they can feel only these three emotions resonating deep within their souls. A group of strangers is given no other choice than to accept the only paying job in this game-like world—the role of a soldier in the Reserve Army—and eliminate anything that threatens the peace in their new world, Grimgar.\n\nWhen all of the stronger candidates join together, those left behind must create a party together to survive: Manato, a charismatic leader and priest; Haruhiro, a nervous thief; Yume, a cheerful hunter; Shihoru, a shy mage; Mogzo, a kind warrior; and Ranta, a rowdy dark knight. Despite its resemblance to one, this is no game—there are no redos or respawns; it is kill or be killed.\n\nIt is now up to this ragtag group of unlikely fighters to survive together in a world where life and death are separated only by a fine line.",
+                "popularity": 17.48,
+                "poster_path": "/dP9okxs6ZrzPubTS3rhmrMDgMWe.jpg",
+                "first_air_date": "2016-01-11",
+                "vote_average": 7.516,
+                "vote_count": 64
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/9ssEppTd4hzPtCvIQnedZjWcPxG.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 17967,
+                "name": "Treme",
+                "origin_country": [
+                    "US"
+                ],
+                "original_language": "en",
+                "original_name": "Treme",
+                "overview": "Tremé takes its name from a neighborhood of New Orleans and portrays life in the aftermath of the 2005 hurricane. Beginning three months after Hurricane Katrina, the residents of New Orleans, including musicians, chefs, Mardi Gras Indians, and other New Orleanians struggle to rebuild their lives, their homes and their unique culture.",
+                "popularity": 16.442,
+                "poster_path": "/k4pV1FUccFmmbz9DwUON7KWT0gi.jpg",
+                "first_air_date": "2010-04-11",
+                "vote_average": 8.143,
+                "vote_count": 77
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/2P1gOtWtnl447GS8DPeyCclWFd8.jpg",
+                "genre_ids": [
+                    10764
+                ],
+                "id": 63726,
+                "name": "Alone",
+                "origin_country": [
+                    "US"
+                ],
+                "original_language": "en",
+                "original_name": "Alone",
+                "overview": "Hardcore survivalists are put by themselves in the Vancouver Island wilderness, without camera crews, teams, or producers – on a single mission to stay alive for as long as possible.",
+                "popularity": 14.827,
+                "poster_path": "/c2NlSxn82m6q2Z3NXjVuGmbzG2m.jpg",
+                "first_air_date": "2015-06-18",
+                "vote_average": 6.9,
+                "vote_count": 40
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/4YnAZ1KO9goeS4c06VO7HXiO3oO.jpg",
+                "genre_ids": [
+                    10765,
+                    18,
+                    9648
+                ],
+                "id": 47640,
+                "name": "The Strain",
+                "origin_country": [
+                    "US"
+                ],
+                "original_language": "en",
+                "original_name": "The Strain",
+                "overview": "A high concept thriller that tells the story of Dr. Ephraim Goodweather, the head of the Center for Disease Control Canary Team in New York City. He and his team are called upon to investigate a mysterious viral outbreak with hallmarks of an ancient and evil strain of vampirism. As the strain spreads, Eph, his team, and an assembly of everyday New Yorkers, wage war for the fate of humanity itself.",
+                "popularity": 56.188,
+                "poster_path": "/2BWErT9QcADpf2G4BZ769eSnFTP.jpg",
+                "first_air_date": "2014-07-13",
+                "vote_average": 7.475,
+                "vote_count": 1279
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/e3dIIHLaEzIYlhcaJsKDchdNbCw.jpg",
+                "genre_ids": [
+                    10765
+                ],
+                "id": 71994,
+                "name": "Extinct",
+                "origin_country": [
+                    "US"
+                ],
+                "original_language": "en",
+                "original_name": "Extinct",
+                "overview": "400 years after the extinction of the human race, a small group of humans are revived by an alien civilization. The colony of revived humans encounter struggles with the aliens who extinguished humankind centuries before, while trying to understand and get along with the mysterious aliens who revived them.",
+                "popularity": 30.425,
+                "poster_path": "/5lOTSc3HECtH1smrzfOsCSyzY17.jpg",
+                "first_air_date": "2017-10-01",
+                "vote_average": 5.5,
+                "vote_count": 20
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/8xH4GUHWyOnDRv3TUlt7jBKTnHd.jpg",
+                "genre_ids": [
+                    16,
+                    9648,
+                    10759,
+                    10765
+                ],
+                "id": 85942,
+                "name": "Darwin's Game",
+                "origin_country": [
+                    "JP"
+                ],
+                "original_language": "ja",
+                "original_name": "ダーウィンズゲーム",
+                "overview": "Sudou Kaname, an ordinary high school student, receives an invitation email to try a mysterious app called \"Darwin's Game.\" Kaname, upon launching the app, is drawn into a game where players fight one another using superpowers called Sigils. Without knowing the reason for all this, can Kaname survive furious battles against the powerful players who attack him?",
+                "popularity": 14.093,
+                "poster_path": "/dk5QFqxVt6WnTWTiK6hHdkL2SMz.jpg",
+                "first_air_date": "2020-01-04",
+                "vote_average": 7.891,
+                "vote_count": 64
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/hTExot1sfn7dHZjGrk0Aiwpntxt.jpg",
+                "genre_ids": [
+                    10765,
+                    18,
+                    10759
+                ],
+                "id": 48866,
+                "name": "The 100",
+                "origin_country": [
+                    "US"
+                ],
+                "original_language": "en",
+                "original_name": "The 100",
+                "overview": "100 years in the future, when the Earth has been abandoned due to radioactivity, the last surviving humans live on an ark orbiting the planet — but the ark won't last forever. So the repressive regime picks 100 expendable juvenile delinquents to send down to Earth to see if the planet is still habitable.",
+                "popularity": 273.723,
+                "poster_path": "/wcaDIAG1QdXQLRaj4vC1EFdBT2.jpg",
+                "first_air_date": "2014-03-19",
+                "vote_average": 7.92,
+                "vote_count": 6645
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/4wl2zZu00WptDAKg8TSqtrBSdqw.jpg",
+                "genre_ids": [
+                    10765,
+                    18
+                ],
+                "id": 86374,
+                "name": "War of the Worlds",
+                "origin_country": [
+                    "FR"
+                ],
+                "original_language": "en",
+                "original_name": "War of the Worlds",
+                "overview": "When astronomers detect a transmission from another galaxy, it is definitive proof of intelligent extra-terrestrial life. The world’s population waits for further contact with bated breath. They do not have to wait long. Within days, mankind is all but wiped out by a devastating attack; pockets of humanity are left in an eerily deserted world. As aliens hunt and kill those left alive, the survivors ask a burning question – who are these attackers and why are they hell-bent on our destruction?",
+                "popularity": 17.188,
+                "poster_path": "/yThmbQkxSzW4HHdAaoj8RYHFH3i.jpg",
+                "first_air_date": "2019-10-28",
+                "vote_average": 7.426,
+                "vote_count": 651
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/pYErfWWb52zq9QQFoZ0Qeoo5Yz.jpg",
+                "genre_ids": [
+                    9648,
+                    10759,
+                    18
+                ],
+                "id": 61345,
+                "name": "Z Nation",
+                "origin_country": [
+                    "US"
+                ],
+                "original_language": "en",
+                "original_name": "Z Nation",
+                "overview": "Three years after the zombie virus has gutted the country, a team of everyday heroes must transport the only known survivor of the plague from New York to California, where the last functioning viral lab waits for his blood.",
+                "popularity": 78.383,
+                "poster_path": "/gXfeDMkEcHoYBvtkbU11g3F81b.jpg",
+                "first_air_date": "2014-09-12",
+                "vote_average": 7.151,
+                "vote_count": 588
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/rZj50NwfIq9e7p3qktWaamz5qcQ.jpg",
+                "genre_ids": [
+                    18
+                ],
+                "id": 62517,
+                "name": "Zoo",
+                "origin_country": [
+                    "US"
+                ],
+                "original_language": "en",
+                "original_name": "Zoo",
+                "overview": "Set amidst a wave of violent animal attacks sweeping across the planet, a young renegade scientist is thrust into a race to unlock the mystery behind this pandemic before time runs out for animals and humans alike.",
+                "popularity": 39.656,
+                "poster_path": "/6Fp49zU7FjsJ4xvvZjCZBiBq9KQ.jpg",
+                "first_air_date": "2015-06-30",
+                "vote_average": 6.575,
+                "vote_count": 398
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/tJAGIHi7tzyVwOhfuoLkJPubj3b.jpg",
+                "genre_ids": [
+                    10765,
+                    10759,
+                    18
+                ],
+                "id": 75758,
+                "name": "Lost in Space",
+                "origin_country": [
+                    "US"
+                ],
+                "original_language": "en",
+                "original_name": "Lost in Space",
+                "overview": "After crash-landing on an alien planet, the Robinson family fights against all odds to survive and escape. But they're surrounded by hidden dangers.",
+                "popularity": 51.329,
+                "poster_path": "/y8NJnTXzb4rio9uvVYFVrXEMofU.jpg",
+                "first_air_date": "2018-04-13",
+                "vote_average": 7.563,
+                "vote_count": 916
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/hMRZ6erBSMHXVy3aXqFlz8LVSMr.jpg",
+                "genre_ids": [
+                    10759,
+                    16,
+                    10765
+                ],
+                "id": 42503,
+                "name": "Deadman Wonderland",
+                "origin_country": [
+                    "JP"
+                ],
+                "original_language": "ja",
+                "original_name": "デッドマン・ワンダーランド",
+                "overview": "Ganta is the only survivor after a mysterious man in red slaughters a classroom full of teenagers. He's framed for the carnage, sentenced to die, and locked away in the most twisted prison ever built: Deadman Wonderland. And then it gets worse.",
+                "popularity": 23.757,
+                "poster_path": "/m12JbXsDdB35RGAC1g3ImNQT4h5.jpg",
+                "first_air_date": "2011-04-17",
+                "vote_average": 7.852,
+                "vote_count": 290
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/ivWNDYPxDMjc82ajeSPuyq70hu9.jpg",
+                "genre_ids": [
+                    16,
+                    10759
+                ],
+                "id": 56998,
+                "name": "High School of the Dead",
+                "origin_country": [
+                    "JP"
+                ],
+                "original_language": "ja",
+                "original_name": "学園黙示録 HIGHSCHOOL OF THE DEAD",
+                "overview": "When the world is struck by a deadly pandemic that turns humans into zombies, Takashi Komuro and several of his classmates at Fujimi High School try to survive the apocalypse.",
+                "popularity": 35.52,
+                "poster_path": "/oPiNGGZyBzst3hKGFU1mteT0zhe.jpg",
+                "first_air_date": "2010-07-05",
+                "vote_average": 8.449,
+                "vote_count": 538
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/xNNplu208Twucpf8MgnqHysYPg.jpg",
+                "genre_ids": [
+                    16,
+                    18,
+                    10759
+                ],
+                "id": 45125,
+                "name": "Btooom!",
+                "origin_country": [
+                    "JP"
+                ],
+                "original_language": "ja",
+                "original_name": "BTOOOM!",
+                "overview": "Sakamoto, an unemployed young man, is one of the world's top players of an online fighting game called Btooom! One day, he wakes up on what appears to be a tropical island, although he doesn't remember how or why he got there.",
+                "popularity": 18.07,
+                "poster_path": "/9WGXIXqq1Y12KyfxEVmtaDe9b1H.jpg",
+                "first_air_date": "2012-10-04",
+                "vote_average": 7.953,
+                "vote_count": 129
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/g2c3CmSjnNujga6jQHRmH1CwFtH.jpg",
+                "genre_ids": [
+                    16,
+                    9648
+                ],
+                "id": 61178,
+                "name": "Corpse Party: Tortured Souls",
+                "origin_country": [
+                    "JP"
+                ],
+                "original_language": "ja",
+                "original_name": "コープスパーティー Tortured Souls",
+                "overview": "One rainy night after a school festival, a group of students from Kisaragi Academy decide to perform the \"Sachiko Ever After\" charm, which will unite them forever as friends. Once the ritual is done, a sudden earthquake transports them to Heavenly Host, a torn down elementary school. Unbeknownst to Satoshi and his friends, however, is the horrific past behind it which culminated in its demolition. As they look for each other and try to escape from Heavenly Host, they soon find out their lives are at the mercy of those affected by that same bloodied past.",
+                "popularity": 19.306,
+                "poster_path": "/aP72Yn8rkmZpGZB3fdzQBS3rlr6.jpg",
+                "first_air_date": "2013-07-24",
+                "vote_average": 6.7,
+                "vote_count": 32
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/5PUo6C8LAzcTzkuPKgLXuUFjafi.jpg",
+                "genre_ids": [
+                    16,
+                    10765,
+                    10759
+                ],
+                "id": 45782,
+                "name": "Sword Art Online",
+                "origin_country": [
+                    "JP"
+                ],
+                "original_language": "ja",
+                "original_name": "ソードアート・オンライン",
+                "overview": "In the near future, a Virtual Reality Massive Multiplayer Online Role-Playing Game (VRMMORPG) called Sword Art Online has been released where players control their avatars with their bodies using a piece of technology called Nerve Gear. One day, players discover they cannot log out, as the game creator is holding them captive unless they reach the 100th floor of the game's tower and defeat the final boss. However, if they die in the game, they die in real life. Their struggle for survival starts now...",
+                "popularity": 50.576,
+                "poster_path": "/mK9zGGk90VmHLOnK79sqlGFjZjW.jpg",
+                "first_air_date": "2012-07-08",
+                "vote_average": 8.312,
+                "vote_count": 1173
+            },
+            {
+                "adult": false,
+                "backdrop_path": "/7goeSggajsAa96CHG48vWrJz2o2.jpg",
+                "genre_ids": [
+                    10764
+                ],
+                "id": 52910,
+                "name": "Law of the Jungle",
+                "origin_country": [
+                    "KR"
+                ],
+                "original_language": "ko",
+                "original_name": "정글의 법칙",
+                "overview": "Law of the Jungle is a hybrid reality show combining elements of drama and documentary. The show is hosted by comedian Kim Byung Man, and each episode invites various celebrities from the various field. So far, many of idol stars and famous actors have appeared on the show. The show introduces viewers to exotic locations around the world where celebrities must work together in order to complete missions and survive. The cast celebrities travel to less habituated, natural places to survive on their own and experience life with local tribes and people. In each location, the guests are tasked to hunt and prepare their meals and also create shelter for the tribe. They sometimes confronted by many difficult challenges. Where will the tribe visit? And how will they survive on their own? Stay tuned to check out!",
+                "popularity": 76.199,
+                "poster_path": "/qG2JpIDuYhuQOMSLqmMtHBBbfx5.jpg",
+                "first_air_date": "2011-10-21",
+                "vote_average": 7.0,
+                "vote_count": 3
+            }
+        ],
+        "total_pages": 500,
+        "total_results": 10000
+    }
+}
