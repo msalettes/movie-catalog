@@ -1,4 +1,21 @@
-# Getting Started with Create React App
+
+
+# The movie catalog
+
+![](./movies.png)
+
+## Technical choices
+- [create-rect-app](https://create-react-app.dev/):
+- [Bootstrap V5](https://getbootstrap.com/docs/5.1/getting-started/introduction/): It provides already a complete theme by default and also because
+I used to use it for 3 years and it is therefore the design system with which I am the most productive
+- [React router](https://reactrouter.com/): The main and the best router library for React
+- [React Intl](https://formatjs.io/docs/getting-started/installation): the main library for i18n , it is very easy to use and provides all features required to manage multi language
+- [React Query](https://react-query.tanstack.com/overview): it is wonderful library for fetching data, it manages caching, pagination, parameterized request, suspense ,etc.
+- [React testing Library]() & [MSW]():
+  - React testing library allows us to  test our components behavior in the same way like a user use it . `functionnal behavior versus implementation details`
+  - MSW : allows us to mock easily http requests for the tests
+
+# Getting Started
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
