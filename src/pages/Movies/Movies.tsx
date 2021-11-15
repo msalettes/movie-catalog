@@ -3,8 +3,8 @@ import React, { ChangeEvent, useState } from 'react';
 import { Form } from 'react-bootstrap';
 import { Helmet } from 'react-helmet';
 import { FormattedMessage, useIntl } from 'react-intl';
-import ContentList from '../components/ContentList/ContentList';
-import { SortBy } from '../types';
+import ContentList from '../../components/ContentList/ContentList';
+import { SortBy } from '../../types';
 import styles from './Movies.module.scss';
 
 export default function Movies(): JSX.Element {
