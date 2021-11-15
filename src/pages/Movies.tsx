@@ -7,7 +7,7 @@ import ContentList from '../components/ContentList/ContentList';
 import { SortBy } from '../types';
 import styles from './Movies.module.scss';
 
-export default function Movie(): JSX.Element {
+export default function Movies(): JSX.Element {
   const { formatMessage } = useIntl();
   const [sortBy, setSortBy] = useState<SortBy>('popularity.desc');
 

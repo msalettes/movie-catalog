@@ -4,6 +4,8 @@ import { Route, Routes } from 'react-router';
 import AppLayout from './components/AppLayout';
 import { ErrorFallback } from './components/Error/Error';
 import Loading from './components/Loading';
+import Movie from './components/Movie/Movie';
+import Serie from './components/Serie/Serie';
 import Providers from './providers';
 const Movies = React.lazy(() => import('./pages/Movies'));
 const Series = React.lazy(() => import('./pages/Series'));
@@ -18,7 +20,9 @@ function App() {
             <Routes>
               <Route path="/" element={<Movies />} />
               <Route path="/series" element={<Series />} />
-              <Route path="/404" element={<NotFound />} />
+              <Route path="/series/:serieId" element={<Serie />} />
+              <Route path="/movies/:movieId" element={<Movie />} />
+              <Route path="*" element={<NotFound />} />
               {/* PLOP_INJECT_ROUTE */}
             </Routes>
           </Suspense>

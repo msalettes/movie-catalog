@@ -24,6 +24,15 @@ const messages = {
     'original_title.asc': 'Name',
     'vote_average.desc': 'Vote average',
   },
+  'more-details': 'More details',
+  movie: {
+    synopsis: 'Synopsis',
+    similar: 'Similar movies',
+  },
+  serie: {
+    synopsis: 'Synopsis',
+    similar: 'Similar series',
+  },
 };
 
 export default messages;

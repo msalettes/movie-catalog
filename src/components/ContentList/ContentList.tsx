@@ -3,7 +3,7 @@ import useInfiniteScroll from 'react-infinite-scroll-hook';
 import { useIntl } from 'react-intl';
 import { useInfiniteQuery } from 'react-query';
 import { SupportedLocale } from '../../intl';
-import fetchContents from '../../queries/fetch-movies';
+import fetchContents from '../../queries/fetch-contents';
 import { Contents, ContentType, SortBy } from '../../types';
 import ContentItem from '../ContentItem/ContentItem';
 import Loading from '../Loading';
@@ -31,6 +31,7 @@ export default function ContentList({ contentType, sortBy }: Props): JSX.Element
     onLoadMore: fetchNextPage,
     disabled: !hasNextPage,
   });
+
   if (isLoading) {
     return <Loading />;
   }
@@ -49,12 +50,14 @@ export default function ContentList({ contentType, sortBy }: Props): JSX.Element
                     picturePath: content.backdrop_path,
                     overview: content.overview,
                     releaseDate: content.first_air_date,
+                    url: `/series/${content.id}`,
                   }
                 : {
                     title: content.title,
                     picturePath: content.backdrop_path,
                     overview: content.overview,
                     releaseDate: content.release_date,
+                    url: `/movies/${content.id}`,
                   };
               return <ContentItem key={content.id} {...contentItemProps} />;
             })}

@@ -10,16 +10,16 @@ export default function AppLayout({ children }: PropsWithChildren<{}>): JSX.Elem
     <>
       <header
         role="banner"
-        className={classnames(styles.header, 'flex-row', 'justify-content-between', 'py-2', 'px-4')}
+        className={classnames(styles.header, 'flex-row', 'justify-content-between', 'py-2', 'px-4', 'border-bottom')}
       >
         <Nav defaultActiveKey="/Movies" as="ul" role="navigation">
           <Nav.Item as="li">
-            <Nav.Link eventKey={1} as={Link} to="/">
+            <Nav.Link eventKey={1} as={Link} to="/" className="text-secondary">
               Movies
             </Nav.Link>
           </Nav.Item>
           <Nav.Item as="li">
-            <Nav.Link eventKey={2} as={Link} to="/series">
+            <Nav.Link eventKey={2} as={Link} to="/series" className="text-secondary">
               Series
             </Nav.Link>
           </Nav.Item>

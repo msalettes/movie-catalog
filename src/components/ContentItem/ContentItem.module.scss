@@ -5,3 +5,9 @@
   -webkit-line-clamp: 3 !important;
   -webkit-box-orient: vertical !important;
 }
+
+.link, .link:hover{
+  color: inherit;
+  text-decoration: inherit;
+  font-weight: inherit;
+}
